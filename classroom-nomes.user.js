@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Nomes Classroom
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Renomeia os nomes das turmas do classroom
 // @author       KaueTech
-// @match        https://classroom.google.com/h
+// @match        https://classroom.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
